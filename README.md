@@ -14,10 +14,10 @@ I am a passionate front-end web developer. I like to build all aspects of the us
 
 
 ## Rapidfire  
-- 🌱 I’m currently learning ReactJs 
+- 🌱 I’m currently learning ReactJs and SVG animations. 
   
 
-- ❓ I’m currently learning ReactJS and SVG animations. 
+- 💬 Ask me about frontend development,UI design and books.
   
 
 - ⚡️ Fun fact: I love doodling and K-dramas 
