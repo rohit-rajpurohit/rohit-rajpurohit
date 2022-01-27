@@ -40,7 +40,15 @@ I am a passionate front-end web developer. I like to build all aspects of the us
 <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" height="40"/>
 </div>  
 
+<details>
+<summary>📚 Fantasy Books Recommendation</summary>
+  
+* [Grisha Trilogy](https://grishaverse.com/the-shadow-and-bone-trilogy-by-leigh-bardugo/)
+* [Six of Crows Duology](https://grishaverse.com/the-six-of-crows-duology-by-leigh-bardugo/)
+* [The Nevernight Chronicle](https://jaykristoff.com/books/the-nevernight-chronicle/)
+* [Percy Jackson](https://rickriordan.com/series/percy-jackson-and-the-olympians/)
 
+</details>
 
 ## GitHub Stats  
 <div ><img src="https://github-readme-stats.vercel.app/api?username=rohit-rajpurohit&show_icons=true&hide=issues&theme=merko&&count_private=truelocale=en" style="width: 80%" /></div>
