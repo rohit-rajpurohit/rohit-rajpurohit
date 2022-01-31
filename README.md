@@ -1,13 +1,9 @@
 # Hello there! I'm Rohit Rajpurohit!  
   
 ## Connect with me:  
-<a href="https://linkedin.com/in/rohit1102" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/an_ecstatic_aesthete/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
+ 
+<a href="https://linkedin.com/in/rohit1102" target="_blank"><img align="left"  style="margin-left: 5px;" alt="linkedin" width="30px" src="https://github.com/rohit-rajpurohit/rohit-rajpurohit/blob/main/images/linkedin.svg" /></a> 
+<a href="https://www.instagram.com/an_ecstatic_aesthete/" target="_blank"><img style="margin-left: 5px;" alt="instagram" width="30px" src="https://cdn.jsdelivr.net/gh/rohit-rajpurohit/rohit-rajpurohit@main/images/instagram.svg" /></a> 
 
 ## Glad to see you here!  
 I am a passionate front-end web developer. I like to build all aspects of the user experience and user interface for client-facing landing pages.
