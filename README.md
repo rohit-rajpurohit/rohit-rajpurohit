@@ -22,7 +22,7 @@ I am a passionate front-end web developer. I like to build all aspects of the us
 
 
 ## Languages and Tools  
-<div align="left">  
+<div>  
 <img align="left" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" />
 <img align="left" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" />
 <img align="left" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />
@@ -37,9 +37,9 @@ I am a passionate front-end web developer. I like to build all aspects of the us
 <img align="left" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40" />  
 <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" height="40"/>
 </div>
+<br/>
 
 ## Books
-
 <details>
 <summary>📚 Fantasy Books Recommendation</summary>
  
