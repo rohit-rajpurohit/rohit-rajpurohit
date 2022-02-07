@@ -36,12 +36,14 @@ I am a passionate front-end web developer. I like to build all aspects of the us
 <img align="left" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />
 <img align="left" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40" />  
 <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" height="40"/>
-</div>  
+</div>
 
 ## Books
+
 <details>
 <summary>📚 Fantasy Books Recommendation</summary>
-  
+ 
+* [The Witcher](https://www.goodreads.com/series/40911-the-witcher)
 * [Grisha Trilogy](https://grishaverse.com/the-shadow-and-bone-trilogy-by-leigh-bardugo/)
 * [Six of Crows Duology](https://grishaverse.com/the-six-of-crows-duology-by-leigh-bardugo/)
 * [The Nevernight Chronicle](https://jaykristoff.com/books/the-nevernight-chronicle/)
